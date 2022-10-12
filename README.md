@@ -53,7 +53,7 @@
 			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 		</a> 
 		<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-	   		 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02qywRz5OPQRHjMbsBixkAPP2q_jf2TCp2A&usqp=CAU" alt="springboot" width="40" height="40"/> 
+	   	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="50" height="50" /> 
 		</a>	
 		
 
@@ -71,7 +71,7 @@
 
 <!-- streak stats  -->
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimdoner&" alt="selimdoner" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimdoner&" alt="selimdoner"/>
 </p>
 
 
