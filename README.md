@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋 I'm Selim Döner</h1>
 <h5 align="center">Experienced to provide outstanding assistance in a team-oriented Agile environment, utilizing proficiency in the SDLC, and technical knowledge of development experience with domain knowledge in Online Marketplace applications.</h5>
 
+![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=selimdoner&label=Profile%20views&color=0e75b6&style=flat" alt="selimdoner" /> 
