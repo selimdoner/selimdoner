@@ -54,6 +54,10 @@
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 		</a> 
+		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+			<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDb" width="40" height="40"/>
+		</a> 
+	
 		<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
 	   	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="50" height="50" /> 
 		</a>	
