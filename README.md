@@ -1,4 +1,4 @@
-<!-- Information using h1 tag -->
+<!-- Information using h1 tag --> 
 <h1 align="center">Hi 👋 I'm Selim Döner</h1>
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
